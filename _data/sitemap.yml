@@ -1,0 +1,13 @@
+- title: Home
+  url: /
+- title: Assignments
+  url: /assignments
+
+# example of sublink usage
+# - title: courses
+#   url: /courses
+#   sublinks:
+#     - title: Intro to Computer Science I
+#       url: /courses/intro0
+#     - title: Intro to Computer Science II
+#       url: /courses/intro1

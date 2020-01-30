@@ -1,0 +1,47 @@
+body {
+    background-color: lightsteelblue;
+}
+
+.navbar {
+    background-color: darkcyan;
+    border-color: darkcyan;
+    color: cornsilk;
+}
+
+.navbar-default
+.navbar-brand {
+    color: cornsilk;
+}
+
+.navbar .nav > li > a {
+    color: cornsilk;
+}
+
+.navbar .nav > li > a:hover {
+    color: cornsilk;
+    background-color: #2ea0a0;
+}
+
+.navbar .nav > .active > a {
+    background-color: #2ea0a0;
+    color: cornsilk;
+}
+
+
+.navbar-default
+.navbar-nav .open .dropdown-menu>li>a {
+    color:cornsilk;
+}
+
+.navbar-default
+.navbar-nav .open .dropdown-menu>li>a:hover {
+    color: black;
+}
+
+ul.dropdown-menu {
+    background-color: #2ea0a0;
+}
+
+li.dropdown-active {
+    background-color: #2ea0a0;;
+}

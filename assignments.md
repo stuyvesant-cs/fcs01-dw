@@ -8,8 +8,9 @@ permalink: /assignments/
 <ul>
   {% for post in site.posts %}
     <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a class="assignment_link" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
           {{ post.content }}
+      <hr>
     </li>
   {% endfor %}
 </ul>

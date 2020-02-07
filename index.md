@@ -16,15 +16,17 @@ permalink: /
    * Pre-arranged appointments get preferred treatment.
 
 ## Class Resources:
+  * [Google Group/Class QAF](https://groups.google.com/a/stuy.edu/forum/#!forum/dw-intro2-qaf)
   * [Class Information Form](https://forms.gle/sPDdthxQk83neugD8)
   * [How to compsci at stuy](https://docs.google.com/document/u/1/d/1I93Pegu_PfTj9s6BXwE98GuBcRIFp3l1yimw5YTRAWw/pub#h.h3rzevnp1gi7) Read it.
-  * Google Group: TBA
   * Web resources -TBA (including links to download the tools used in class).
   * CS Dojo
       * The best place to get you CS on. Plenty of available computers, and upperclassmen on hand to help if needed!
       * Room 307 after 10th period Monday - Thursday
   * Solutions:
   * Github page:
+
+---
 
 ## Your Responsibilities:
   0. Be a good human being!

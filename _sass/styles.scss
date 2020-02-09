@@ -70,7 +70,14 @@ li.dropdown-active {
 }
 
 code {
-    background-color: lightsteelblue;
+    background-color: $base-color;
     border: none;
     color: #054A91;
+}
+
+.highlighter-rouge .highlight {
+    width: max-content;
+    background-color: #919bbc;
+    color: #36385b;
+    border-radius: 10px;
 }

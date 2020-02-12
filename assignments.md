@@ -11,7 +11,7 @@ permalink: /assignments/
   {% for post in site.posts %}
     <li>
         <a class="assignment_link" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-          {{ post.content }}
+          {{ post.excerpt }}
       <hr>
     </li>
   {% endfor %}

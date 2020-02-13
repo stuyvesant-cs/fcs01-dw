@@ -16,6 +16,9 @@ permalink: /
    * Pre-arranged appointments get preferred treatment.
 
 ## Class Resources:
+  * Solutions:
+    * [HTML Source Code](https://github.com/mks22-dw/html)
+    * [Live Working Versions of HTML Assignments](http://homer.stuy.edu/~dw)
   * [Google Group/Class QAF](https://groups.google.com/a/stuy.edu/forum/#!forum/dw-intro2-qaf)
   * [Class Information Form](https://forms.gle/sPDdthxQk83neugD8)
   * [How to compsci at stuy](https://docs.google.com/document/u/1/d/1I93Pegu_PfTj9s6BXwE98GuBcRIFp3l1yimw5YTRAWw/pub#h.h3rzevnp1gi7) Read it.

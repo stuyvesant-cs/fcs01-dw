@@ -18,6 +18,7 @@ permalink: /
 ## Class Resources:
   * Solutions:
     * [HTML Source Code](https://github.com/mks22-dw/html)
+    * [Python Source Code](https://github.com/mks22-dw/python)
     * [Live Working Versions of HTML Assignments](http://homer.stuy.edu/~dw)
   * [Google Group/Class QAF](https://groups.google.com/a/stuy.edu/forum/#!forum/dw-intro2-qaf)
   * [Class Information Form](https://forms.gle/sPDdthxQk83neugD8)

@@ -4,4 +4,8 @@ title: Lessons
 permalink: /lessons/
 ---
 
-* Lesson 13: [String Slicing](lessons/13-slicing/assets/player/KeynoteDHTMLPlayer.html#1){:target="_blank"}
+#### Note: These lessons will "play" like they are slide shows in class. Clicking will move you to the next slide.
+
+{%- for lesson in site.data.lessons %}
+ * {{ lesson.date }}: [{{ lesson.name }}]({{ lesson.link }}){:target="_blank"}
+ {%- endfor -%}

@@ -18,7 +18,7 @@ permalink: /
 ## Class Resources:
  * [Google Group/Class QAF](https://groups.google.com/a/stuy.edu/forum/#!forum/dw-intro2-qaf)
    * The QAF should be used to continue the class discussion outside the class.
-   * The mroe people that are active on it, the better we will all be.
+   * The more people that are active on it, the better we will all be.
  * [Slack Channel](https://introcs-dw.slack.com/)
    * This is for real-time discussion during normal class time (2:50 - 3:35).
   * Solutions:
@@ -63,7 +63,7 @@ permalink: /
         * You will have time in class to work on them, but they will require outside work as well.
         * Projects will count the same as tests.
       * Tests
-        * There will be 4-6 exams during the seamster, as well as a final exam.
+        * There will be 4-6 exams during the semester, as well as a final exam.
         * Tests will be done on paper, with no electronic assistance.
         * The class day before a test will have review time, but you must come armed with questions!
         * CS tests are commonly on Friday, unless the school schedule changes.

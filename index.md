@@ -29,11 +29,10 @@ permalink: /
   * [How to compsci at stuy](https://docs.google.com/document/u/1/d/1I93Pegu_PfTj9s6BXwE98GuBcRIFp3l1yimw5YTRAWw/pub#h.h3rzevnp1gi7) Read it.
   * Web resources - (including links to download the tools used in class, more to come).
     * [Thonny (python IDE)](https://thonny.org)
+    * [Matplotlib tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)
   * CS Dojo
       * The best place to get you CS on. Plenty of available computers, and upperclassmen on hand to help if needed!
       * Room 307 after 10th period Monday - Thursday
-  * Solutions:
-  * Github page:
 
 ---
 

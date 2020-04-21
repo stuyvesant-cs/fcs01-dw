@@ -22,3 +22,6 @@
 - name: Matplotlib - line graphs & scatter plots
   date: 04/20/20 - Monday
   link: 18-matplotlib/assets/player/KeynoteDHTMLPlayer.html#1
+- name: Matplotlib - bar graphs and histograms
+  date: 04/21/20 - Tuesday
+  link: 19-matplotlib/assets/player/KeynoteDHTMLPlayer.html#1

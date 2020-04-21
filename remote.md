@@ -12,7 +12,7 @@ permalink: /remote/
 * Every day, during the normal class time (2:10 - 2:50 or 1:30 - 2:05 on Wednesdays), I will be available on the class slack workspace (see below for more information) to hold a text-based discussion.
 * Outside of class time, all questions should be handled using the class QAF (also see below).
 * Participation in slack and QAF discussions, as well as in the weekly zoom check ins will be recorded.
-* Thursday and Friday I will hold small zoom meetings with groups of 6 students. These meetings should take about 10 minutes. I've gone ahead and assigned groups based on your seats in class, below find the meeting schedule. Groups assignments can be found [further below](#zoom-group-assignments)
+* Thursday and Friday I will hold small google meet sessions with groups of 6 students. These meetings should take about 10 minutes. I've gone ahead and assigned groups based on your seats in class, below find the meeting schedule. Groups assignments can be found [further below](#zoom-group-assignments)
 * I know many of you have various responsibilities and may not be able to make some of these class time discussions. That is totally ok, and why we have the QAF as well. You can still be a part of the community and contribute around your schedule.
 * If you have concerns about anything, or have issues with using the systems set in place, please email me. We can work this out, but only if you let me know something is up.
 

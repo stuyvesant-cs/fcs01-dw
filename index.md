@@ -30,6 +30,7 @@ permalink: /
   * Web resources - (including links to download the tools used in class, more to come).
     * [Thonny (python IDE)](https://thonny.org)
     * [Matplotlib tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)
+    * [Python Turtle Documentation](https://docs.python.org/3.3/library/turtle.html)
   * CS Dojo
       * The best place to get you CS on. Plenty of available computers, and upperclassmen on hand to help if needed!
       * Room 307 after 10th period Monday - Thursday

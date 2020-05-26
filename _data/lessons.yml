@@ -49,3 +49,9 @@
 - name: Python Website Checklist
   date: 05/19/20 - Tuesday
   link: web_checklist.html
+- name: Using Query Strings with the CGI Module
+  date: 05/26/20 - Tuesday
+  link: 26-query-strings/assets/player/KeynoteDHTMLPlayer.html#1
+- name: Query String Demo (Video)
+  date: 05/26/20 - Tuesday
+  link: https://youtu.be/MqsHes9ArPc

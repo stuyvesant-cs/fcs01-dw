@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "Intro to Computer Science: Dyrland-Weaver"
+title: "Intro to Computer Science II: Dyrland-Weaver"
 permalink: /
 ---
 

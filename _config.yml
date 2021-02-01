@@ -17,7 +17,7 @@ title: IntroCS II
 email: dw@stuy.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Class website for Mr. Dyrland-Weaver's Intro to CS II
-baseurl: "/intro1-dw" # the subpath of your site, e.g. /blog
+baseurl: "/intro01-dw" # the subpath of your site, e.g. /blog
 url: "https://stuyvesant-cs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 #this is used in the navbar for the StuyCS link

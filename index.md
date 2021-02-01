@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "Intro to Computer Science II: Dyrland-Weaver"
+title: "IntroCS 01: Dyrland-Weaver"
 permalink: /
 ---
 
@@ -11,29 +11,30 @@ permalink: /
 
 ## Mr. DW's Contact Info
  * email: dw@stuy.edu
- * office: 301
-   * Periods 3, 6, 7, 8
-   * Pre-arranged appointments get preferred treatment.
+ * Office Hours: M-F 2:30 - 2:50
+ * Office Hours protocol:
+   - Make your presence known in the __301\_dw__ channel on the [dojo rc](https://dojochat.stuycs.org/home)
+   - Wait in that channel to be called.
+   - When called, join the [office hours zoom](https://us02web.zoom.us/j/87018660359?pwd=cWdva2cvdDYzdnRhb3RnemgvV1QvQT09).
 
 ## Class Resources:
- * [Google Group/Class QAF](https://groups.google.com/a/stuy.edu/forum/#!forum/dw-intro2-qaf)
-   * The QAF should be used to continue the class discussion outside the class.
-   * The more people that are active on it, the better we will all be.
- * [Slack Channel](https://introcs-dw.slack.com/)
-   * This is for real-time discussion during normal class time (2:50 - 3:35).
+  * Class zoom session links:
+    * [Period 4](https://us02web.zoom.us/j/89614934876?pwd=Sy8vR0VJcStlZXhzYXZobW91aCtDQT09)
+    * [Period 5](https://us02web.zoom.us/j/86186870253?pwd=azZaRnRXZGxYVnNndGdMZTJIUXpIdz09)
+    * [Period 9](https://us02web.zoom.us/j/86574365681?pwd=eVVsMXJ1Mno1a3dqUkMxd2x4aWNkQT09)
+    * [Zoom login help](http://www.davidmholmes.net/Stuy/common/joinZoomSession/steps.html)
+  * Class chat server: <https://introchat-dw.stuycs.org/>
+  * Work server: <> Updated soon
   * Solutions:
     * [HTML Source Code](https://github.com/mks22-dw/html)
     * [Python Source Code](https://github.com/mks22-dw/python)
-    * [Live Working Versions of HTML Assignments](http://homer.stuy.edu/~dw)
-  * [Class Information Form](https://forms.gle/sPDdthxQk83neugD8)
   * [How to compsci at stuy](https://docs.google.com/document/u/1/d/1I93Pegu_PfTj9s6BXwE98GuBcRIFp3l1yimw5YTRAWw/pub#h.h3rzevnp1gi7) Read it.
   * Web resources - (including links to download the tools used in class, more to come).
     * [Thonny (python IDE)](https://thonny.org)
-    * [Matplotlib tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)
-    * [Python Turtle Documentation](https://docs.python.org/3.3/library/turtle.html)
+  * [Syllabus]
   * CS Dojo
       * The best place to get you CS on. Plenty of available computers, and upperclassmen on hand to help if needed!
-      * Room 307 after 10th period Monday - Thursday
+      * Dojo will be running via this chat server: <https://dojochat.stuycs.org/home>
 
 ---
 

@@ -60,11 +60,11 @@ permalink: /
         * This may vary, but will generally be 1-3 days after the assignment is due. Once a solution is posted, you cannot receive late credit.
         * You cannot submit all missed work at the end of the semester or marking period and expect to get credit.
       * Projects
-        * There will be 2-3 large projects during the semester.
+        * There will be ~4 large projects during the semester.
         * They may be group projects.
         * You will have time in class to work on them, but they will require outside work as well.
         * Projects will count the same as tests.
-      * Tests
+      * Tests (_there will be no tests in Spring 2021_)
         * There will be 4-6 exams during the semester, as well as a final exam.
         * Tests will be done on paper, with no electronic assistance.
         * The class day before a test will have review time, but you must come armed with questions!

@@ -24,13 +24,16 @@ permalink: /
     * [Period 9](https://us02web.zoom.us/j/86574365681?pwd=eVVsMXJ1Mno1a3dqUkMxd2x4aWNkQT09)
     * [Zoom login help](http://www.davidmholmes.net/Stuy/common/joinZoomSession/steps.html)
   * Class chat server: <https://introchat-dw.stuycs.org/>
-  * Work server: <> Updated soon
+  * Work server: <http://bert.stuy.edu/jdyrland/spring2021/pages.py>
   * Solutions:
     * [HTML Source Code](https://github.com/mks22-dw/html)
     * [Python Source Code](https://github.com/mks22-dw/python)
   * [Jupiter (gradebook)](https://login.jupitered.com/login/){:target="_blank"}
   * [How to compsci at stuy](https://docs.google.com/document/u/1/d/1I93Pegu_PfTj9s6BXwE98GuBcRIFp3l1yimw5YTRAWw/pub#h.h3rzevnp1gi7) Read it.
   * Web resources - (including links to download the tools used in class, more to come).
+    - [HTML Overview](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+    - [HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+    - [HTML Specification, from the source](https://html.spec.whatwg.org/multipage/#toc-semantics) (this is a more technical guide)
     * [Thonny (python IDE)](https://thonny.org)
   * [Syllabus]
   * CS Dojo

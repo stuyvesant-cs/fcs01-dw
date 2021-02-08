@@ -34,6 +34,9 @@ permalink: /
     - [HTML Overview](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
     - [HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
     - [HTML Specification, from the source](https://html.spec.whatwg.org/multipage/#toc-semantics) (this is a more technical guide)
+    - [CSS Overview and Guide](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    - [CSS Glossary](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+    - [HTML colors](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
     * [Thonny (python IDE)](https://thonny.org)
   * [Syllabus]
   * CS Dojo

@@ -27,6 +27,7 @@ permalink: /
   * Work server: <http://bert.stuy.edu/jdyrland/spring2021/pages.py>
   * Solutions:
     * [HTML Source Code](https://github.com/mks22-dw/html)
+    * [HTML Served via gh Pages](https://mks22-dw.github.io/html/)
     * [Python Source Code](https://github.com/mks22-dw/python)
   * [Jupiter (gradebook)](https://login.jupitered.com/login/){:target="_blank"}
   * [How to compsci at stuy](https://docs.google.com/document/u/1/d/1I93Pegu_PfTj9s6BXwE98GuBcRIFp3l1yimw5YTRAWw/pub#h.h3rzevnp1gi7) Read it.
@@ -37,6 +38,7 @@ permalink: /
     - [CSS Overview and Guide](https://developer.mozilla.org/en-US/docs/Web/CSS)
     - [CSS Glossary](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
     - [HTML colors](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+    - [CSS Fonts](https://www.cssfontstack.com/)
     * [Thonny (python IDE)](https://thonny.org)
   * [Syllabus]
   * CS Dojo

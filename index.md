@@ -12,23 +12,8 @@ permalink: /
 ## Mr. DW's Contact Info
  * email: dw@stuy.edu
  * Office Hours: M-F 2:30 - 2:50
- * Office Hours protocol:
-   - Make your presence known in the __301\_dw__ channel on the [dojo rc](https://dojochat.stuycs.org/home)
-   - Wait in that channel to be called.
-   - When called, join the [office hours zoom](https://us02web.zoom.us/j/87018660359?pwd=cWdva2cvdDYzdnRhb3RnemgvV1QvQT09).
 
 ## Class Resources:
-  * Class zoom session links:
-    * [Period 4](https://us02web.zoom.us/j/89614934876?pwd=Sy8vR0VJcStlZXhzYXZobW91aCtDQT09)
-    * [Period 5](https://us02web.zoom.us/j/86186870253?pwd=azZaRnRXZGxYVnNndGdMZTJIUXpIdz09)
-    * [Period 9](https://us02web.zoom.us/j/86574365681?pwd=eVVsMXJ1Mno1a3dqUkMxd2x4aWNkQT09)
-    * [Zoom login help](http://www.davidmholmes.net/Stuy/common/joinZoomSession/steps.html)
-  * Class chat server: <https://introchat-dw.stuycs.org/>
-  * Work server: <http://bert.stuy.edu/jdyrland/spring2021/pages.py>
-  * Solutions:
-    * [HTML Source Code](https://github.com/mks22-dw/html)
-    * [HTML Served via gh Pages](https://mks22-dw.github.io/html/)
-    * [Python Source Code](https://github.com/mks22-dw/python)
   * [Jupiter (gradebook)](https://login.jupitered.com/login/){:target="_blank"}
   * [How to compsci at stuy](https://docs.google.com/document/u/1/d/1I93Pegu_PfTj9s6BXwE98GuBcRIFp3l1yimw5YTRAWw/pub#h.h3rzevnp1gi7) Read it.
   * Web resources - (including links to download the tools used in class, more to come).
@@ -43,7 +28,6 @@ permalink: /
   * [Syllabus]
   * CS Dojo
       * The best place to get you CS on. Plenty of available computers, and upperclassmen on hand to help if needed!
-      * Dojo will be running via this chat server: <https://dojochat.stuycs.org/home>
 
 ---
 

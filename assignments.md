@@ -4,7 +4,7 @@ title: Assignments
 permalink: /assignments/
 ---
 
-#### Submit all assignments here: <http://bert.stuy.edu/jdyrland/spring2021/pages.py>
+#### Submit all assignments here: <>
 <hr>
 
 <ul>

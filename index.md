@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "IntroCS 01: Dyrland-Weaver"
+title: "Foundations of CS 01: Dyrland-Weaver"
 permalink: /
 ---
 
@@ -11,7 +11,10 @@ permalink: /
 
 ## Mr. DW's Contact Info
  * email: dw@stuy.edu
- * Office Hours: M-F 2:30 - 2:50
+ * office: 301
+   * Periods 1, 2, 3, 6, 7, 8
+   * Pre-arranged appointments get preferred treatment.
+
 
 ## Class Resources:
   * [Jupiter (gradebook)](https://login.jupitered.com/login/){:target="_blank"}
@@ -52,12 +55,12 @@ permalink: /
         * This may vary, but will generally be 1-3 days after the assignment is due. Once a solution is posted, you cannot receive late credit.
         * You cannot submit all missed work at the end of the semester or marking period and expect to get credit.
       * Projects
-        * There will be ~4 large projects during the semester.
+        * There will be ~3 large projects during the semester.
         * They may be group projects.
         * You will have time in class to work on them, but they will require outside work as well.
         * Projects will count the same as tests.
-      * Tests (_there will be no tests in Spring 2021_)
-        * There will be 4-6 exams during the semester, as well as a final exam.
+      * Tests
+        * There will be 2-3 exams during the semester.
         * Tests will be done on paper, with no electronic assistance.
         * The class day before a test will have review time, but you must come armed with questions!
         * CS tests are commonly on Friday, unless the school schedule changes.

@@ -17,6 +17,7 @@ permalink: /
 
 
 ## Class Resources:
+  * Class slides: < https://www.stuycs.org/dwlessons/fcs/selector.html>
   * [Jupiter (gradebook)](https://login.jupitered.com/login/){:target="_blank"}
   * [How to compsci at stuy](https://docs.google.com/document/u/1/d/1I93Pegu_PfTj9s6BXwE98GuBcRIFp3l1yimw5YTRAWw/pub#h.h3rzevnp1gi7) Read it.
   * Web resources - (including links to download the tools used in class, more to come).

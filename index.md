@@ -14,6 +14,8 @@ permalink: /
  * office: 301
    * Periods 1, 2, 3, 6, 7, 8
    * Pre-arranged appointments get preferred treatment.
+   * [In case of emergency, break glass](https://zoom.us/j/99807416174?pwd=bm1KcGJiNHhXbFRCWm1UbnVDSlpadz09)
+     - Zoom link for potential remote class.
 
 
 ## Class Resources:

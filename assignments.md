@@ -7,7 +7,7 @@ permalink: /assignments/
 
 Solutions can be found here:
 - HTML/CSS: <https://github.com/mks22-dw/dwsource/tree/main/html>
-- Python: <>
+- Python: <https://github.com/mks22-dw/dwsource/tree/main/python>
 
 ### Important Notes
 

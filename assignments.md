@@ -4,6 +4,7 @@ title: Assignments
 permalink: /assignments/
 ---
 
+<!--
 
 Solutions can be found here:
 - HTML/CSS: <https://github.com/mks22-dw/dwsource/tree/main/html>
@@ -24,6 +25,7 @@ If you did not receive credit (see a 0 on jupiter) for an assignment that you co
   - Submissions to the form after this deadline will not be considered.
 
 <hr>
+-->
 
 <ul>
   {% for post in site.posts %}

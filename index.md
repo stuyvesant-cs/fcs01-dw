@@ -17,8 +17,8 @@ permalink: /
    * [In case of emergency, break glass](https://zoom.us/j/99807416174?pwd=bm1KcGJiNHhXbFRCWm1UbnVDSlpadz09)
      - Zoom link for potential remote class.
 
-
 ## Class Resources:
+<!--
   * Class slides: <https://www.stuycs.org/dwlessons/fcs/selector.html>
   * [Jupiter (gradebook)](https://login.jupitered.com/login/){:target="_blank"}
   * [How to compsci at stuy](https://docs.google.com/document/u/1/d/1I93Pegu_PfTj9s6BXwE98GuBcRIFp3l1yimw5YTRAWw/pub#h.h3rzevnp1gi7) Read it.
@@ -34,6 +34,7 @@ permalink: /
   * [Syllabus]
   * CS Dojo
       * The best place to get you CS on. Plenty of available computers, and upperclassmen on hand to help if needed!
+-->
 
 ---
 

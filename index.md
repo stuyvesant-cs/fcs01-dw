@@ -10,26 +10,27 @@ permalink: /
 ## [Assignments](assignments)
 
 ## Mr. DW's Contact Info
- * email: dw@stuy.edu
+ * email: jdyrlandweaver@schools.nyc.gov
  * office: 301
-   * Periods 1, 2, 3, 6, 7, 8
+   * Periods 2, 3, 6, 7, 8
    * Pre-arranged appointments get preferred treatment.
    * [In case of emergency, break glass](https://zoom.us/j/99807416174?pwd=bm1KcGJiNHhXbFRCWm1UbnVDSlpadz09)
      - Zoom link for potential remote class.
 
 ## Class Resources:
+* [Jupiter (gradebook)](https://login.jupitered.com/login/){:target="_blank"}
+* Web resources - (including links to download the tools used in class, more to come).
+  - [HTML Overview](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+  - [HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+  - [HTML Specification, from the source](https://html.spec.whatwg.org/multipage/#toc-semantics) (this is a more technical guide)
+  - [CSS Overview and Guide](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - [CSS Glossary](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+  - [HTML colors](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+  - [CSS Fonts](https://www.cssfontstack.com/)
+
 <!--
   * Class slides: <https://www.stuycs.org/dwlessons/fcs/selector.html>
-  * [Jupiter (gradebook)](https://login.jupitered.com/login/){:target="_blank"}
-  * [How to compsci at stuy](https://docs.google.com/document/u/1/d/1I93Pegu_PfTj9s6BXwE98GuBcRIFp3l1yimw5YTRAWw/pub#h.h3rzevnp1gi7) Read it.
-  * Web resources - (including links to download the tools used in class, more to come).
-    - [HTML Overview](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
-    - [HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-    - [HTML Specification, from the source](https://html.spec.whatwg.org/multipage/#toc-semantics) (this is a more technical guide)
-    - [CSS Overview and Guide](https://developer.mozilla.org/en-US/docs/Web/CSS)
-    - [CSS Glossary](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-    - [HTML colors](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
-    - [CSS Fonts](https://www.cssfontstack.com/)
+  * [How to compsci at stuy](https://docs.google.com/document/u/1/d/1I93Pegu_PfTj9s6BXwE98GuBcRIFp3l1yimw5YTRAWw/pub#h.h3rzevnp1gi7) Read it.  
     * [Thonny (python IDE)](https://thonny.org)
   * [Syllabus]
   * CS Dojo

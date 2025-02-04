@@ -18,8 +18,10 @@ permalink: /
      - Zoom link for potential remote class.
 
 ## Class Resources:
+* Class slides: <https://www.stuycs.org/dwlessons/fcs/selector.html>
 * [Jupiter (gradebook)](https://login.jupitered.com/login/){:target="_blank"}
 * Web resources - (including links to download the tools used in class, more to come).
+  - [HTML Validator](https://whatwg.org/validator/)
   - [HTML Overview](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
   - [HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
   - [HTML Specification, from the source](https://html.spec.whatwg.org/multipage/#toc-semantics) (this is a more technical guide)
@@ -29,7 +31,6 @@ permalink: /
   - [CSS Fonts](https://www.cssfontstack.com/)
 
 <!--
-  * Class slides: <https://www.stuycs.org/dwlessons/fcs/selector.html>
   * [How to compsci at stuy](https://docs.google.com/document/u/1/d/1I93Pegu_PfTj9s6BXwE98GuBcRIFp3l1yimw5YTRAWw/pub#h.h3rzevnp1gi7) Read it.  
     * [Thonny (python IDE)](https://thonny.org)
   * [Syllabus]

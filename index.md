@@ -22,6 +22,7 @@ permalink: /
 * [Jupiter (gradebook)](https://login.jupitered.com/login/){:target="_blank"}
 * Web resources - (including links to download the tools used in class, more to come).
   - [HTML Validator](https://whatwg.org/validator/)
+  - [HTML, CSS, and Javascript playground](https://developer.mozilla.org/en-US/play)
   - [HTML Overview](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
   - [HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
   - [HTML Specification, from the source](https://html.spec.whatwg.org/multipage/#toc-semantics) (this is a more technical guide)

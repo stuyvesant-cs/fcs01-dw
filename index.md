@@ -18,6 +18,7 @@ permalink: /
      - Zoom link for potential remote class.
 
 ## Class Resources:
+* Solutions/thesource: <https://github.com/mks22-dw/thesource>
 * Class slides: <https://www.stuycs.org/dwlessons/fcs/selector.html>
 * [Jupiter (gradebook)](https://login.jupitered.com/login/){:target="_blank"}
 * Web resources - (including links to download the tools used in class, more to come).

@@ -93,6 +93,6 @@ Below is the list of skills that are the key components of this course. Mastery 
 | 28. Writing web pages with HTML  | Can write HTML element tags for at least 2 different elements. | Can use the required html tags to make a minimally valid HTML document. | Can create HTML pages that contain the required tags, hyperlinks and multiple other HTML elements and use attributes correctly.  | Can create HTML pages that use elements like `div` and `span` to organize content and provide links to CSS styling files.  |
 | 29. Styling web pages with CSS | Can use CSS to modify a single element using in-line styling.  | Can use CSS in the head of a webpage to modify multiple elements.  | Can use CSS in an external file to provide multiple style options for multiple elements. | Can use CSS to modify the layout of a webpage.  |
 | 30. Strings | Can create string literals in code, and combine strings using `+`.  | Can use `[]` to access individual characters of strings.  | Can build new strings over time using a combination of variables and literals. | Can use the unicode values of characters to transform strings. |
-| 31. Lists |   |   |   |   |
+| 31. Lists | Can use `[]` to access elements in a list.  | Can iterate over the elements of a list.  | Can create lists pragmatically using list methods and `+`.  | Can create and work with lists that contain sublists.  |
 | 32. Dictionaries |   |   |   |   |
 | 33. Working with Data |   |   |   |   |

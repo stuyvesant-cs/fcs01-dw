@@ -69,6 +69,21 @@ Final grades will take the average of all of a student's individual skill grades
 # Skills for  Foundations of Computer Science
 _N.B._ This list may change slightly over the course of the semester. Any changes will be made clearly during class and updated here as well.
 
+## Skill List Modifications:
+The skill list below was aspirational, and while almost all of the skills were covered over the course of the semester, some of them were not formally assessed. In the interest of fairness, we will be using the following modifications when assessing final skill grades:
+- __Skills that will not contribute to grades__
+  - 4
+  - 15
+  - 23
+  - 24
+  - 25
+  - 26
+- __Skills that will only be assessed via labs/projects__
+  - 9
+  - 10
+  - 22
+  - 33
+
 ## Course Skills
 Below is the list of skills that are the key components of this course. Mastery level must also include demonstration of Competency level as well.
 
